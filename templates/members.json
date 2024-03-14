@@ -1,0 +1,24 @@
+{
+  "members": {
+    "member_1": {
+      "name_surname": "Scott Alex",
+      "path": "img/members/member_1.png",
+      "list_prof": ["Инженер-исследователь", "пилот", "строитель", "экзобиолог", "врач"]
+    },
+    "member_2": {
+      "name_surname": "Orwell George",
+      "path": "img/members/member_2.png",
+      "list_prof": [
+        "Инженер по терраформированию",
+        "климатолог",
+        "специалист по радиационной защите",
+        "астрогеолог"
+      ]
+    },
+    "member_3": {
+      "name_surname": "Harry Potter",
+      "path": "img/members/member_3.png",
+      "list_prof": ["гляциолог", "инженер жинеобеспечения", "метеоролог", "оператор марсохода"]
+    }
+  }
+}

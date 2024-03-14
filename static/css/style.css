@@ -1,0 +1,24 @@
+h5{
+    color: white;
+}
+.body{
+    display: block;
+    margin: 0 auto;
+    height: 500px;
+    width: 500px;
+}
+.carousel-control-prev{
+    display: block;
+    margin: 0 auto;
+    height: 500px;
+    width: 300px;
+}
+.carousel-control-next{
+    display: block;
+    margin: 0 auto;
+    height: 500px;
+    width: 300px;
+}
+.btn{
+    margin-left: 175px;
+}

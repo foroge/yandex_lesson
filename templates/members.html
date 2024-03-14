@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="card">
+        <h2>{{ member["name_surname"] }}</h2>
+        <img src="{{ member['path'] }}">
+        <h3>{{ member['list_prof'] }}</h3>
+    </div>
+
+{% endblock %}
